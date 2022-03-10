@@ -39,6 +39,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 ## 		:camera_flash: **Demonstração**
   
-<a href="https://matheuskristman.github.io/Fylo-Landing-Page/">Acesse a demo clicando aqui</a>
+<a href="https://matheuskristman.github.io/QR-Code-Component/">Acesse a demo clicando aqui</a>
   
 Feito por Matheus Kristman -  <a href="https://www.linkedin.com/in/matheus-kristman-07a947171/">Linkedin</a>
