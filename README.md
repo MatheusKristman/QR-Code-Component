@@ -35,7 +35,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## :closed_book: Licenca
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/MatheusKristman/Fylo-Landing-Page/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/MatheusKristman/QR-Code-Component/blob/main/LICENSE) para mais detalhes.
 
 ## 		:camera_flash: **Demonstração**
   
